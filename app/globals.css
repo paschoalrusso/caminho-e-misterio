@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Paleta A */
+:root {
+  --vinho: #6B2737;
+  --dourado: #C59D5F;
+  --grafite: #111827;
+}
+a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
