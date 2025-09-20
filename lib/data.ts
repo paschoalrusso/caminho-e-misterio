@@ -13,11 +13,11 @@ export const pdfs = [
 export const linksExternos = [
   {
     label: "Catecismo da Igreja Católica (Vatican)",
-    href: "https://www.vatican.va/archive/ccc_css/archive/catechism_po/index_po.htm",
+    href: "https://www.vatican.va/archive/cathechism_po/index_new/prima-pagina-cic_po.html",
   },
   {
     label: "Instrução Geral do Missal Romano (IGMR)",
-    href: "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_po.html",
+    href: "https://arquidiocesedegoiania.org.br/wp-content/uploads/2025/02/instrucao-geral-do-missal-romano-0393222.pdf?utm_source=chatgpt.com",
   },
   { label: "Ritual do Batismo (referências)", href: "#" },
 ];
