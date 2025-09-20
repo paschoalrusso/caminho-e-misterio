@@ -1,6 +1,8 @@
 'use client';
 import { useState } from 'react';
 import { pdfs, linksExternos } from '@/lib/data';
+import { historiasLinks } from "@/lib/data";
+
 
 export default function CaminhoEMisterio() {
   const [open, setOpen] = useState(false);

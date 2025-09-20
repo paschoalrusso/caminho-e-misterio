@@ -21,3 +21,14 @@ export const linksExternos = [
   },
   { label: "Ritual do Batismo (referências)", href: "#" },
 ];
+
+export const historiasLinks = [
+  {
+    label: "A Grande História: A Promessa Cumprida",
+    href: "https://g.co/gemini/share/d8789eabf270",
+  },
+  {
+    label: "A Grande História: Uma Viagem pelo Antigo Testamento",
+    href: "https://g.co/gemini/share/93979fe46ee8",
+  },
+];
