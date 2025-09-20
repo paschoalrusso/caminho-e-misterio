@@ -157,6 +157,19 @@ export default function CaminhoEMisterio() {
               ))}
             </ul>
           </div>
+          {/* Histórias contadas */}
+          <div className="mt-6 rounded-2xl border border-slate-200 p-5 bg-white shadow-sm">
+            <h3 className="font-semibold">Histórias contadas</h3>
+            <ul className="mt-3 list-disc list-inside text-sm text-slate-700">
+              {historiasLinks.map((h, idx) => (
+                <li key={idx}>
+                  <a className="underline" href={h.href} target="_blank" rel="noopener noreferrer">
+                    {h.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
       </section>
 
